@@ -1,8 +1,8 @@
-#Project Name: "Employee Attrition Analysis: Unveiling the Factors Behind Workforce Departure"
+Project Name: "Employee Attrition Analysis: Unveiling the Factors Behind Workforce Departure"
 
-#Aim: Why are some of the employees leaving ? 
+Aim: Why are some of the employees leaving ? 
 
-#Fields in the dataset include:
+Fields in the dataset include:
 
     Satisfaction Level of the employee
     Last evaluation received
@@ -15,20 +15,20 @@
     Department
     Salary
 
-#Summary: 
+Summary: 
 
     The project aims to analyze employee attrition within an organization using a comprehensive dataset containing various attributes of employees. By leveraging Tableau and advanced analytical techniques, we seek to uncover the underlying factors that contribute to employees leaving the company. The analysis will provide valuable insights to help organizations understand why employees depart and take proactive measures to improve employee retention.
 
-#Key Findings and Interesting Facts:
+Key Findings and Interesting Facts:
 
-    ##Correlation between Job Satisfaction and Attrition: Through data analysis, we discovered a strong negative correlation between the satisfaction level of employees and their likelihood of leaving the company. This suggests that dissatisfied employees are more inclined to seek opportunities elsewhere, highlighting the importance of ensuring employee satisfaction for long-term retention.
+    Correlation between Job Satisfaction and Attrition: Through data analysis, we discovered a strong negative correlation between the satisfaction level of employees and their likelihood of leaving the company. This suggests that dissatisfied employees are more inclined to seek opportunities elsewhere, highlighting the importance of ensuring employee satisfaction for long-term retention.
 
-    ##Influence of Work-Life Balance on Attrition: Our analysis revealed a noteworthy relationship between average monthly hours worked and employee attrition. Employees who consistently worked longer hours were found to have a higher propensity to leave. This finding emphasizes the significance of maintaining a healthy work-life balance to reduce turnover rates.
+    Influence of Work-Life Balance on Attrition: Our analysis revealed a noteworthy relationship between average monthly hours worked and employee attrition. Employees who consistently worked longer hours were found to have a higher propensity to leave. This finding emphasizes the significance of maintaining a healthy work-life balance to reduce turnover rates.
 
-    ##Impact of Promotions on Employee Retention: We examined the effect of promotions on employee attrition and observed a significant difference in turnover rates between employees who had received a promotion in the last five years and those who hadn't. The data suggests that employees who haven't been promoted are more likely to leave the company. This implies the importance of providing growth opportunities and recognizing employee achievements to enhance retention.
+    Impact of Promotions on Employee Retention: We examined the effect of promotions on employee attrition and observed a significant difference in turnover rates between employees who had received a promotion in the last five years and those who hadn't. The data suggests that employees who haven't been promoted are more likely to leave the company. This implies the importance of providing growth opportunities and recognizing employee achievements to enhance retention.
 
-    ##Salary Disparity and Attrition: Our analysis explored the relationship between salary levels and employee attrition. Surprisingly, we discovered that salary alone was not the primary driving factor behind employees leaving the organization. Instead, factors such as job satisfaction, work-life balance, and growth opportunities played more substantial roles in employee retention.
+    Salary Disparity and Attrition: Our analysis explored the relationship between salary levels and employee attrition. Surprisingly, we discovered that salary alone was not the primary driving factor behind employees leaving the organization. Instead, factors such as job satisfaction, work-life balance, and growth opportunities played more substantial roles in employee retention.
 
-    ##Departmental Disparities: We analyzed attrition rates across different departments and found notable variations. Some departments exhibited significantly higher turnover rates than others, indicating the need for department-specific strategies to address employee attrition. Identifying the reasons behind these disparities can aid in implementing targeted retention initiatives.
+    Departmental Disparities: We analyzed attrition rates across different departments and found notable variations. Some departments exhibited significantly higher turnover rates than others, indicating the need for department-specific strategies to address employee attrition. Identifying the reasons behind these disparities can aid in implementing targeted retention initiatives.
 
 Overall, this project provides crucial insights into the factors contributing to employee attrition. Armed with this knowledge, organizations can take proactive steps to improve employee satisfaction, work-life balance, growth opportunities, and departmental dynamics, ultimately reducing turnover rates and enhancing overall employee retention.
